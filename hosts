@@ -1,2 +1,2 @@
 [tomcat_nodes]
-192.168.10.10 # Add Server IP address, one line per server
+Centos	ansible_host=10.109.129.144 ansible_user=root
